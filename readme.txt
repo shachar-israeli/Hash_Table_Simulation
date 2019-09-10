@@ -115,9 +115,3 @@ output: print the string table.
 take the first head of every linked list and free. recursive method
 output: just free it 1 by 1 .
 
- 
- 
- **hope you will enjoy my EX1 **
- Shachar Israeli
- user name: israelish
-
